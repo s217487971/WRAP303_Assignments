@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="assignment">Assignment 3</string>
+    <string name="task1">Task 1</string>
+    <string name="task2">Task 2</string>
+    <string name="grid">Sudoku Grid</string>
+    <string name="create">Generate Grid</string>
+    <string name="creatagn">Generate Another</string>
+    <string name="enter">Number of Unique Grids</string>
+    <string name="generate">Generate Grids</string>
+    <string name="nogrids">All Grids: </string>
+    <string name="ungrids">Unique Grids: </string>
+    <string name="Viewall">View All</string>
+    <string name="viewuni">View Unique</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+
+</resources>

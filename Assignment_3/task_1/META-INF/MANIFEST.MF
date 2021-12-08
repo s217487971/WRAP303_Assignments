@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Skylake\Documents\GitHub\Assignment_3\task_1\src
+Main-Class: main
+

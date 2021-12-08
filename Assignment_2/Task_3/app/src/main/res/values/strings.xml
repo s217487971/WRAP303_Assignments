@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="number">054 232 2312</string>
+    <string name="name">Donti</string>
+    <string name="Save">Save</string>
+    <string name="Name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="todo">TODO</string>
+
+</resources>

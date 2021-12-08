@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">AndroidCuppaClient</string>
+    <string name="content" translatable="false">ImageLogo</string>
+    <string name="menuLabel">Menu</string>
+    <string name="costLabel" translatable="false">Total R##.##</string>
+    <string name="collectLabel">Collect</string>
+    <string name="quantityLable" translatable="false">#</string>
+    <string name="productName">Coffee</string>
+    <string name="pruductPrice" translatable="false">R##.##</string>
+    <string name="ProductDescr">What the product is made of</string>
+    <string name="phonenumber">Enter Phone Number</string>
+    <string name="numberHint">e.g 012 345 6789</string>
+    <string name="welcomeNew">Welcome, Lets capture your details</string>
+</resources>

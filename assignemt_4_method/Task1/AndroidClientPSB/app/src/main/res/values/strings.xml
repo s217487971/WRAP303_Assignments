@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidPSB</string>
+    <string name="title">Task 1: PubSubBroker</string>
+    <string name="Subscriber">Subscriber ID:</string>
+    <string name="SubscriberIDHint">e.g Email, Phone</string>
+    <string name="Connect">Connect</string>
+    <string name="ServerIP">Server Address:</string>
+    <string name="ServerIPHint">e.g 123.455.565.343</string>
+    <string name="topics">Below are Topics You can Subscribe To</string>
+    <string name="createTopic">Here you can Create Your Own Topic</string>
+    <string name="topicname">Topic Name: </string>
+    <string name="create">Create</string>
+    <string name="topicHint">Enter Topic Name</string>
+    <string name="topicsSelected">Below Are Topics You have Subscribed To</string>
+    <string name="topicList">List of Topics</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="Done">Done</string>
+    <string name="Join">Join</string>
+    <string name="leave">Exit</string>
+</resources>

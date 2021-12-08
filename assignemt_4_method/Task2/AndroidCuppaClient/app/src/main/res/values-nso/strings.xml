@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="collectLabel">Tsea</string>
+    <string name="productName">Kofi</string>
+    <string name="ProductDescr">E dirilwe ka eng</string>
+    <string name="phonenumber">tsenya Mogala</string>
+    <string name="numberHint">Mohlala, 012 345 6789</string>
+    <string name="welcomeNew">Dumala, etla re go ngwale</string>
+    <string name="menuLabel">" dikgetho"</string>
+</resources>

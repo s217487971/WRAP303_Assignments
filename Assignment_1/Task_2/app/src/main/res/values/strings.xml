@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SOSGame</string>
+    <string name="todo">TODO</string>
+    <string name="player1">Player One</string>
+    <string name="Player2">Player two</string>
+    <string name="SOSgame">SOS Game</string>
+    <string name="Score">Score</string>
+    <string name="Winner">Winner</string>
+    <string name="PLAY">Play</string>
+    <string name="Quit">Quit</string>
+    <string name="S">S</string>
+    <string name="O">O</string>
+</resources>

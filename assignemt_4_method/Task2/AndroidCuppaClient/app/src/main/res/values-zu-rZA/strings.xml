@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="collectLabel">Thatha</string>
+    <string name="ProductDescr">Iyenzwe Ngani</string>
+    <string name="phonenumber">Faka inombolo yakho</string>
+    <string name="numberHint">Isibonelo, 012 345 6789</string>
+    <string name="welcomeNew">Sawubona, woza Sikubhale phansi</string>
+    <string name="menuLabel">imenyu</string>
+    <string name="productName">ikhofi</string>
+</resources>

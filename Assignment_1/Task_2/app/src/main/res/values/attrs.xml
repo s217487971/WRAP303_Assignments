@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SOSGameBoard">
+        <attr name="boardColor" format="color"/>
+        <attr name="SColor" format="color"/>
+        <attr name="OColor" format="color"/>
+        <attr name="Player1LineColor" format="color"/>
+        <attr name="Player2LineColor" format="color"/>
+    </declare-styleable>
+</resources>
